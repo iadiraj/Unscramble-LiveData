@@ -14,6 +14,5 @@ class MainActivity : AppCompatActivity() {
             setReorderingAllowed(true)
             commit()
         }
-
     }
 }
